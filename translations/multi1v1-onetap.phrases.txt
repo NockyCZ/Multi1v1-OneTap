@@ -1,0 +1,18 @@
+"Phrases"
+{
+	"OneTapRound"
+	{
+		"en"			"One Tap round"
+        "cze"			"One Tap kolo"
+	}
+    "ReloadDisabled"
+	{
+		"en"			"Reload is not allowed in this round!"
+        "cze"			"Nabíjení je zakázáno při tomto kole!"
+	}
+    "OneTapRoundChat"
+	{
+		"en"			"You are currently playing {green}One Tap {default}round!"
+        "cze"			"Právě hraješ {green}One Tap {default}kolo!"
+	}
+}
